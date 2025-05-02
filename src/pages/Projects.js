@@ -11,7 +11,7 @@ function Projects() {
     },
     {
       title: 'Simple Task Manager',
-      description: '[A brief description of Project 2 - e.g., A basic web application for managing daily tasks with features like adding, deleting, and marking tasks as complete.]',
+      description: 'A basic web application for managing daily tasks with features like adding, deleting, and marking tasks as complete.',
       technologies: ['React', 'React Router', 'Bootstrap', 'HTML', 'CSS', 'JavaScript', 'Laravel'], // Add relevant technologies
       link: 'https://github.com/natayaeden/ADET-Midterm-CS.git' // Replace with your actual GitHub repository link
     },
